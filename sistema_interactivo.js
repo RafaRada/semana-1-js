@@ -15,3 +15,4 @@ while (edad) {
         alert("Hola "+nombre+", eres mayor de edad.¡Preparate para granes oportunidades en el mundo de la programación!")
     }
 }
+
